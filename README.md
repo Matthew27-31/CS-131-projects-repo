@@ -1,1 +1,1 @@
-coming soon
+CS 131, Discrete Structures.  Summer 2025 term projects
