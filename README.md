@@ -1,1 +1,1 @@
-CS 131, Discrete Structures.  Summer 2025 term projects
+CS 131, Discrete Structures.  Summer 2025 term projects. Class ended 7.24.25 at 11:59 pm
