@@ -5,7 +5,7 @@ import java.util.ArrayList;
 Brute-force bitmasking to 0/1 Knapsack
  */
 public class projectthree {
-    public static void main(String Args[]){
+    public static void main(String[] Args){
         Scanner input = new Scanner(System.in);
 
         //Ask user for n items and weight of the container
